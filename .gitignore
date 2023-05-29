@@ -1,0 +1,48 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+#*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+#*.lib
+
+# Executables
+*.out
+*.app
+/build
+/share
+/include
+/Docs/*.ini
+/tmp
+/arch
+/to_delete
+/imgui.ini
+/config.xml
+/bin/imgui.ini
+/bin/config.xml
+/bin/debug.log
+/bin/DBCHelper.exe
+/bin/libdbcppp.dll
+/bin/libxmlmm.dll
+/bin/vcruntime140.dll
+/bin/vcruntime140_1.dll
